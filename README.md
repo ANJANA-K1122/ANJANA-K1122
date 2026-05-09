@@ -1,11 +1,8 @@
-### About me 👋
+# Hi, I'm Anjana 👋
 
-<!--
-**ANJANA-K1122/ANJANA-K1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying In VJEC...
-- 🌱 I’m currently learning btech in CEBS...
-- 💬 Ask me about ANYTHING...
--->
+🎓 Final Year Computer Science Engineering Student  
+💻 Interested in AI, Machine Learning, and Web Development  
+📱 Currently working on AI-DLDS – AI-Driven Leak Detection System for Data Privacy in Mobile Platforms  
+🛡️ Interested in Cybersecurity and Privacy-Focused Applications  
+🌱 Learning AI and Backend Development  
+🚀 Passionate about building real-world projects
